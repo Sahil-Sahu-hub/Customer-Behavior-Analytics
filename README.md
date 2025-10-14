@@ -30,7 +30,7 @@ Retail businesses operating in Istanbul malls face revenue stagnation due to lim
 
 - Revenue 2022: $115.43M
 
-- Revenue 2023: $21.50M (sharp decline, [REPLACE_WITH_ACTUAL_METRIC] after updated data).
+- Revenue 2023: $21.50M (sharp decline, after updated data).
 
 - Female-majority customer base (60%) with avg. age 43 confirmed.
 
