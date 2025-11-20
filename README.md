@@ -5,7 +5,7 @@ Customer Behavior Analytics
 Comprehensive sales analytics of Istanbul malls to uncover customer trends, revenue drivers, and actionable retail strategies.
 
 ## Overview
-This project delivers a structured analysis of retail sales data collected from shopping malls in Istanbul. The core objective is to provide stakeholders with data-driven insights into customer demographics, sales performance, and payment behavior, ultimately enabling better inventory planning, targeted marketing, and revenue optimization.
+This project delivers a structured analysis of retail sales data collected from shopping malls in Istanbul. The core objective is to provide stakeholders a data-driven insights into customer demographics, sales performance, and payment behavior, ultimately enabling better inventory planning, targeted marketing, and revenue optimization.
 
 The intended audience includes retail executives, category managers, data analysts, and decision-makers responsible for strategic planning and operational efficiency. The deliverable is a set of analytical outputs and an interactive dashboard to monitor KPIs in real time.
 
